@@ -1,5 +1,9 @@
-import Badge from './badge'
+import AddressInput from './AddressInput'
+import Badge from './Badge'
+import ExternalLink from './ExternalLink'
 
 export {
-    Badge
+  AddressInput,
+  Badge,
+  ExternalLink
 }
